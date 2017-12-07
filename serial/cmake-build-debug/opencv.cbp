@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\usr\local\share\;CMake Files\..\..\..\..\..\..\usr\local\share\OpenCV\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/benjamin.horn/Documents/git/uncanny/compare copy/cmake-build-debug"/>
+				<Option working_dir="/Users/benjamin.horn/Documents/git/uncanny/serial/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/compare\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/compare\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/compare\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/compare\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/serial/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/serial/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/serial/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/serial/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/benjamin.horn/Documents/git/uncanny/compare copy/cmake-build-debug"/>
+				<Option working_dir="/Users/benjamin.horn/Documents/git/uncanny/serial/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/compare\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/compare\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/compare\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/compare\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/serial/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/serial/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/serial/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/serial/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/benjamin.horn/Documents/git/uncanny/compare copy/cmake-build-debug"/>
+				<Option working_dir="/Users/benjamin.horn/Documents/git/uncanny/serial/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/compare\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/compare\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/compare\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/compare\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/serial/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/serial/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/serial/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/serial/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="opencv">
-				<Option output="/Users/benjamin.horn/Documents/git/uncanny/compare copy/cmake-build-debug/opencv" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/benjamin.horn/Documents/git/uncanny/compare copy/cmake-build-debug"/>
+				<Option output="/Users/benjamin.horn/Documents/git/uncanny/serial/cmake-build-debug/opencv" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/benjamin.horn/Documents/git/uncanny/serial/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -53,15 +53,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/compare\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 opencv"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/compare\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/compare\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/compare\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/serial/cmake-build-debug/Makefile&quot;  VERBOSE=1 opencv"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/serial/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/serial/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/serial/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="opencv/fast">
-				<Option output="/Users/benjamin.horn/Documents/git/uncanny/compare copy/cmake-build-debug/opencv" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/benjamin.horn/Documents/git/uncanny/compare copy/cmake-build-debug"/>
+				<Option output="/Users/benjamin.horn/Documents/git/uncanny/serial/cmake-build-debug/opencv" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/benjamin.horn/Documents/git/uncanny/serial/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -75,29 +75,29 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/compare\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 opencv/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/compare\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/compare\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/compare\ copy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/serial/cmake-build-debug/Makefile&quot;  VERBOSE=1 opencv/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/serial/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/serial/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/benjamin.horn/Documents/git/uncanny/serial/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/benjamin.horn/Documents/git/uncanny/compare copy/main.cpp">
+		<Unit filename="/Users/benjamin.horn/Documents/git/uncanny/serial/main.cpp">
 			<Option target="opencv"/>
 		</Unit>
-		<Unit filename="/Users/benjamin.horn/Documents/git/uncanny/compare copy/CMakeLists.txt">
+		<Unit filename="/Users/benjamin.horn/Documents/git/uncanny/serial/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
-		<Unit filename="/Users/benjamin.horn/Documents/git/uncanny/compare copy/../../../../../../usr/local/share/OpenCV/OpenCVConfig-version.cmake">
+		<Unit filename="/Users/benjamin.horn/Documents/git/uncanny/serial/../../../../../../usr/local/share/OpenCV/OpenCVConfig-version.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\share\OpenCV\"/>
 		</Unit>
-		<Unit filename="/Users/benjamin.horn/Documents/git/uncanny/compare copy/../../../../../../usr/local/share/OpenCV/OpenCVConfig.cmake">
+		<Unit filename="/Users/benjamin.horn/Documents/git/uncanny/serial/../../../../../../usr/local/share/OpenCV/OpenCVConfig.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\share\OpenCV\"/>
 		</Unit>
-		<Unit filename="/Users/benjamin.horn/Documents/git/uncanny/compare copy/../../../../../../usr/local/share/OpenCV/OpenCVModules.cmake">
+		<Unit filename="/Users/benjamin.horn/Documents/git/uncanny/serial/../../../../../../usr/local/share/OpenCV/OpenCVModules.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\share\OpenCV\"/>
 		</Unit>
-		<Unit filename="/Users/benjamin.horn/Documents/git/uncanny/compare copy/../../../../../../usr/local/share/OpenCV/OpenCVModules-release.cmake">
+		<Unit filename="/Users/benjamin.horn/Documents/git/uncanny/serial/../../../../../../usr/local/share/OpenCV/OpenCVModules-release.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\share\OpenCV\"/>
 		</Unit>
 	</Project>

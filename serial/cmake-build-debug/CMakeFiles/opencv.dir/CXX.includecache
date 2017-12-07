@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/benjamin.horn/Documents/git/uncanny/compare copy/main.cpp
+/Users/benjamin.horn/Documents/git/uncanny/serial/main.cpp
 iostream
 -
 opencv2/core/core.hpp
@@ -16,12 +16,6 @@ opencv2/highgui/highgui.hpp
 opencv2/imgproc.hpp
 -
 opencv2/opencv.hpp
--
-iostream
--
-cstdio
--
-ctime
 -
 
 /usr/local/include/opencv/cxcore.h

@@ -15,7 +15,7 @@ int main(int argc, char **argv) {
     double totalTime;
     start = std::clock();
 
-    String image1 = "turk.jpg";
+    String image1 = "6.jpg";
 
     // ./programName would be argv[0]
     if (argv[1]) {
@@ -44,7 +44,7 @@ int main(int argc, char **argv) {
     imwrite("OutputImage.png", outputImage);
 
     // image will auto close
-    waitKey(0); // do not close window until done viewing image
+    waitKey(0);
 
     // end open cv implementation
 
