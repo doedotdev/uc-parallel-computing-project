@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/benjamin.horn/Documents/compare
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/benjamin.horn/Documents/git/uncanny/compare
 -- The C compiler identification is AppleClang 9.0.0.9000038
 -- The CXX compiler identification is AppleClang 9.0.0.9000038
 -- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc
@@ -16,4 +16,4 @@
 -- Found OpenCV: /usr/local (found version "3.3.1") 
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/benjamin.horn/Documents/compare/cmake-build-debug
+-- Build files have been written to: /Users/benjamin.horn/Documents/git/uncanny/compare/cmake-build-debug

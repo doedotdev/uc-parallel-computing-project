@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/benjamin.horn/Documents/compare/main.cpp" "/Users/benjamin.horn/Documents/compare/cmake-build-debug/CMakeFiles/opencv.dir/main.cpp.o"
+  "/Users/benjamin.horn/Documents/git/uncanny/compare/main.cpp" "/Users/benjamin.horn/Documents/git/uncanny/compare/cmake-build-debug/CMakeFiles/opencv.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
