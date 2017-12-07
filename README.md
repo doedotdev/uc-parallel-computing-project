@@ -13,6 +13,12 @@ The main functionality is among these three files.
  - [Compare main.cpp](https://github.com/hornbd96/uncanny/blob/master/compare/main.cpp)
  - [Serial serial.cpp](https://github.com/hornbd96/uncanny/blob/master/compare/main.cpp)
 
+ ## Useful Large Image Files
+
+Wikipedia hosts many extremely large images useful for image processing and performance comparison.
+
+ - [Large Images](https://commons.wikimedia.org/w/index.php?title=Category:Large_images#mw-category-media)
+
 ## Background
 Our motivation for choosing edge detection as a project topic was influenced by Chris’s focus of work at his future internship. He will likely be working with edge detection and image processing in general for images taken by probes in outer space. A project such as this serves as an excellent introduction to work that he will do in the future.
 
