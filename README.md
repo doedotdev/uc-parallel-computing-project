@@ -6,13 +6,6 @@ Chris Klammer - klammecr@mail.uc.edu
 ## Final Project Report
 [Final Project Report Link](https://docs.google.com/document/d/1kwieEjQPy-1_5hu6fqBapzr9CZg_Kduay8AGREue0_o/edit?usp=sharing)
 
-## Code BreakDown
-
-The main functionality is among these three files.
-
- - [Compare main.cpp](https://github.com/hornbd96/uncanny/blob/master/compare/main.cpp)
- - [Serial serial.cpp](https://github.com/hornbd96/uncanny/blob/master/compare/main.cpp)
-
  ## Useful Large Image Files
 
 Wikipedia hosts many extremely large images useful for image processing and performance comparison.
