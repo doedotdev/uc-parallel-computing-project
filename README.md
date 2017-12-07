@@ -3,6 +3,16 @@ Benjamin Horn - hornbd@mail.uc.edu
 
 Chris Klammer - klammecr@mail.uc.edu
 
+## Final Project Report
+[Final Project Report Link](https://docs.google.com/document/d/1kwieEjQPy-1_5hu6fqBapzr9CZg_Kduay8AGREue0_o/edit?usp=sharing)
+
+## Code BreakDown
+
+The main functionality is among these three files.
+
+ - [Compare main.cpp](https://github.com/hornbd96/uncanny/blob/master/compare/main.cpp)
+ - [Serial serial.cpp](https://github.com/hornbd96/uncanny/blob/master/compare/main.cpp)
+
 ## Background
 Our motivation for choosing edge detection as a project topic was influenced by Chris’s focus of work at his future internship. He will likely be working with edge detection and image processing in general for images taken by probes in outer space. A project such as this serves as an excellent introduction to work that he will do in the future.
 
