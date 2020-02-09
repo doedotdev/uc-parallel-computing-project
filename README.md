@@ -1,4 +1,8 @@
-# Uncanny - Parallel Computing Final Assignment
+# uc-parallel-computing-project
+University of Cincinnati - Parallel Computing Project - Edge Detection with CUDA on the GPU
+
+Uncanny - Parallel Computing Final Assignment
+
 Benjamin Horn - hornbd@mail.uc.edu
 
 Chris Klammer - klammecr@mail.uc.edu
